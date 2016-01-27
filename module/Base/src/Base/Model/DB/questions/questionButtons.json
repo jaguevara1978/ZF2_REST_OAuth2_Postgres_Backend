@@ -1,0 +1,10 @@
+{
+    "buttons": [
+        {
+            "styleClass": "info",
+            "onClick": "$hide()",
+            "text": "Go to %sponsor%'s site",
+            "fontIcon": "fa fa-external-link-square"
+        }
+    ]
+}

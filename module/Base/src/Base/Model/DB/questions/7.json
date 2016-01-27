@@ -1,0 +1,28 @@
+{
+    "id": 7,
+    "sponsor": "Cineplex",
+    "sponsorId":"SP55cd8acb30345",
+    "category":3,
+    "site": "http://www.cineplex.com/",
+    "imageAssociated": "http://matoot.com/matoot-extn/img/q7.PNG",
+    "title": "Entertainment",
+    "question": "How much are Scene cards?",
+    "options": [
+        {
+            "value": 0,
+            "option": "$4.99"
+        },
+        {
+            "value": 1,
+            "option": "$9.99"
+        },
+        {
+            "value": 2,
+            "option": "Free"
+        },
+        {
+            "value": 3,
+            "option": "$11.99"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": 8,
+    "sponsor": "SuperCell",
+    "sponsorId":"SP55cd8acb30345",
+    "category":1,
+    "site": "http://supercell.com/en/",
+    "imageAssociated": "http://matoot.com/matoot-extn/img/q8.PNG",
+    "title": "Business",
+    "question": "Which mobile game is NOT created by Supercell?",
+    "options": [
+        {
+            "value": 0,
+            "option": "Clash of Clans"
+        },
+        {
+            "value": 1,
+            "option": "Candy Crush"
+        },
+        {
+            "value": 2,
+            "option": "Boom Beach"
+        },
+        {
+            "value": 3,
+            "option": "Hay Day"
+        }
+    ]
+}

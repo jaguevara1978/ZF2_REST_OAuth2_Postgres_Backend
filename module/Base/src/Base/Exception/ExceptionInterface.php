@@ -1,0 +1,1 @@
+<?phpnamespace Base\Exception;interface ExceptionInterface {}

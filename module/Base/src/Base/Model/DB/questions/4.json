@@ -1,0 +1,28 @@
+{
+    "id": 4,
+    "sponsor": "Carnival",
+    "sponsorId":"SP55cd8acb30345",
+    "category":1,
+    "site": "http://www.carnival.com/",
+    "imageAssociated": "http://matoot.com/matoot-extn/img/q4.PNG",
+    "title": "Travel",
+    "question": "Carnival Cruise Lines is a British-American owned cruise line based in?",
+    "options": [
+        {
+            "value": 0,
+            "option": "Houston, Texas"
+        },
+        {
+            "value": 1,
+            "option": "Los Angeles, California"
+        },
+        {
+            "value": 2,
+            "option": "New York City, New York"
+        },
+        {
+            "value": 3,
+            "option": "Doral, Florida"
+        }
+    ]
+}
