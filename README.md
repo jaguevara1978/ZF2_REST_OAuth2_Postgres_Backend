@@ -12,3 +12,4 @@ This example is connecting to a Postgres DB; but ZF2 has several adapters to con
 Inside of Modules directory we can find each DB connected. The auto generator creates a new module per DB found, so it can be easily to indentify for the developer.
 
 ##The generator creates Controller, Form, Model and Table based on the DB properties of each object found.
+The only module that doesn't belong to a DB is Base. Which contains the parent Classes for all the objects.
